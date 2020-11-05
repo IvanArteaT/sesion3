@@ -1,5 +1,19 @@
 .container-header{
-  width: 10px;
-  height: 400px;
-  background-color: aqua;
+  width: 100%;
+  height: 100px;
+  background-color: green;
+}
+
+.container-section-promo{
+  display: flex;
+  width: 70%;
+  margin: 100px auto;
+  align-items: center;
+  justify-items: center;
+}
+
+.items-article{
+  width: 30%;
+  height: 100px;
+  background-color: red;
 }
