@@ -1,19 +1,19 @@
 .container-header{
   width: 100%;
   height: 50px;
-<<<<<<< HEAD
+
   background-color: purple;
 }
 
 .container-section-promo{
   display: flex;
-=======
+
   background-color: yellow;
 }
 
 .container-section-promo{
   display: flex-end;
->>>>>>> 2c5191ebaf57a572fb180bd9a81d425dfa61e48c
+
   width: 70%;
   margin: 100px auto;
   align-items: center;
@@ -21,11 +21,11 @@
 }
 
 .items-article{
-<<<<<<< HEAD
+
   width: 40%;
   height: 100px;
   background-color: blue;
-=======
+
   width: 90%;
   height: 100px;
   background-color: brown;
@@ -56,5 +56,5 @@
 .publish > form p {
   color: #025157;
   margin-right: 18px;
->>>>>>> 2c5191ebaf57a572fb180bd9a81d425dfa61e48c
+
 }
